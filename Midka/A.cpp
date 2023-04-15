@@ -47,8 +47,4 @@ for (int i = 0; i < num; i++)
 }
 
 cout << "Right hand magic power: " << cnt_odd * odd << endl;
-
-
-
-
 }

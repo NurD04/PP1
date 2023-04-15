@@ -13,8 +13,4 @@ if (n % 2 != 0){
 else if(n % 2 == 0 and n > 6 and n < 20){
     cout<<"Super \n";
 }
-
-
-
-
 }

@@ -22,3 +22,4 @@ while (cin>>str)
         
 }
 }
+

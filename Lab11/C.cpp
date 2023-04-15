@@ -33,28 +33,3 @@ for (int i = 0;i < v.size();i++ )
 
 }
 
-
-
-
-
-
-/*#include<bits/stdc++.h>
-using namespace std;
-bool cmp(pair<string,int>p1,pair<string,int>p2){
-return p1.second > p2.second;
-}
-int main(){
-map<string,int>mp;
-int n,po,per,all = 0;cin >> n;string na;
-for (int i = 0; i < n; i++)
-{
-    cin >> na >> po;
-    all += po;
-    mp[na] += po;
-}
-for (auto it : mp)
-{
-    per = (it.second * 100) / all;
-    cout << it.first << " " << per << "%"<<endl;
-}
-}*/

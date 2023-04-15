@@ -1,10 +1,7 @@
 #include <iostream>
-
 #include <algorithm>
 #include <vector>
 using namespace std;
-
-
 int main(){
     vector<int> evens, odds;
     int i, num;
@@ -17,11 +14,8 @@ int main(){
         } else {
             odds.push_back(num);
         }
-
-
     }
     int odd_count = odds.size();
     int even_count = evens.size();
     cout << even_count << " " << odd_count << '\n';
-
 }

@@ -21,6 +21,7 @@ int main(){
     }
     // ai
 
+
     int x1 ,y1,x2 , y2;
     for(int j = 0; j < k;j++){
         x1 = sq[j][0];

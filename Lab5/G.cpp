@@ -13,8 +13,4 @@ if(s==t){
 else{
     cout<<"NO";
 }
-
-
-
-
 }

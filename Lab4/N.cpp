@@ -18,10 +18,4 @@ for (int i = 2; i < n; i++)
         cout << i << " is prime "<<endl;
     }
 }
-
-
-
-
-
-
 }

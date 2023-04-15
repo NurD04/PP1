@@ -22,7 +22,4 @@ int main()
 int num;
 cin >> num;
 sim(num);
-
-
-
 }

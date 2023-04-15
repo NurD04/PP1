@@ -18,17 +18,6 @@ cout << "No";
 
 }
 
-/*if(n == pow( 2,und ))
-{
-    cout << "Yes";
-    
-}
-else 
-{
-cout << "No";
-}
-}*/
-
 int main()
 {
  

@@ -14,17 +14,11 @@ for(int i=1;i<=n;i++)
 for(int i=1;i<l;i++){
     cout<<arr[i]<<" ";
 }
-// 9
-// 7
 
-// 
 for(int i=r;i>=l;i--)
 {
     cout<<arr[i]<<" ";
 }
-
-
-
 for(int i=r+1;i<=n;i++)
 {
     cout<<arr[i]<<" ";

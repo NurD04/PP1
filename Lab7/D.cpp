@@ -21,3 +21,4 @@ cin >>  s;
 cout << sum(s);
 
 }
+

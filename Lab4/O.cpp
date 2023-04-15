@@ -29,8 +29,4 @@ for (int i = 0; i < r; i++)
 }
 
  cout << "Maximum element is: " << max << " with coordinates: " << x + 1 << ";" << y + 1;
- 
-
-
-
 }

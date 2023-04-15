@@ -21,13 +21,4 @@ for (auto now : s)
     cout << now << " ";
 }
 
-
-
-
-
-
-
-
-
-
 }

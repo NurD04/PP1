@@ -9,8 +9,4 @@ for (i ; i*i<=n; i++)
 {
     cout<<i*i<<endl;
 }
-
-
-
-
 }

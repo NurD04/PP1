@@ -20,6 +20,4 @@ int num;
 cin >> num;
 
 cout << Fact(num);
-
-
 }

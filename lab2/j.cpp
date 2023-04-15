@@ -17,13 +17,6 @@ int main(){
             if (num[k] == '0') {
                 res++;
             }
-            
-
-  
     }
-
     cout << res << "\n";
-
-    
-
 }

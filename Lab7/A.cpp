@@ -13,6 +13,4 @@ int main()
 int num;
 cin >> num;
 cout << degree(num);
-
-
 }

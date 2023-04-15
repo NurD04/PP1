@@ -18,7 +18,4 @@ int main()
     cin >> num ;
 
     cout << SUMMA(num);
-
-
-
 }

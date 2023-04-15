@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main(){
     int n,a, sum;
     
@@ -12,11 +11,4 @@ int main(){
         sum += a;
     }
     cout<<sum<<endl;
-    
-    
-
-    
-    
-    
-    
 }

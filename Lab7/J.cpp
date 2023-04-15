@@ -27,3 +27,4 @@ cin >> str;
 cout << heat(str);
 
 }
+

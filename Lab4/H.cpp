@@ -27,8 +27,6 @@ min=sum;
 mi=i+1;
 }
 }
-
-
-
 cout<<mi;
 }
+

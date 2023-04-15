@@ -27,14 +27,6 @@ for (int i = 0; i < n; i++)
 }
 
 cout << "no";
-/*if (cnt == 0)
-{
-    cout << "no";
-    return ;
-}
-else{
-cout << "cheater";
-}*/
 
 }
 int main()

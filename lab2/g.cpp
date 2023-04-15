@@ -1,9 +1,6 @@
 #include <iostream>
-
 #include <algorithm>
 #include <vector>
-
-
 using namespace std;
 int main(){
     vector<int> numbers;
@@ -13,8 +10,6 @@ int main(){
         cin >> num;
 
         numbers .push_back(num);
-    
     }
-
     cout << *max_element(numbers.begin(), numbers.end());
 }

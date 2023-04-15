@@ -8,6 +8,7 @@ int gcd(int a,int b){
     }
     return a;
 }
+
 int main(){
 int n,res;cin >> n;
 vector<int>v(n);

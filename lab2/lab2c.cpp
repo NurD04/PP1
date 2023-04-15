@@ -18,5 +18,5 @@ else if(year%4==0)
 else{
     cout<<"No\n";
 }
-
 }
+
